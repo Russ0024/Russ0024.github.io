@@ -4,22 +4,23 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://caoyuwei.com/3月23-01-曹育玮证件照.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Yuwei Cao (Russell, 曹育玮)**.
 
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a junior majoring in **Credit Management** at School of Finance, Renmin University of China. I am extremely fortunate to be advised by [Meng Miao](http://sf.ruc.edu.cn/info/1428/9676.htm) and [Bo Huang](http://sf.ruc.edu.cn/info/1287/8143.htm). Here is [my Resume](https://caoyuwei.com/file/曹育玮-中国人民大学财政金融学院-信用管理.pdf).
 
 ## Research Interests
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on Empirical Corporate Finance and Governance of Chinese Government. My interests are on the **ESG** and its derivative problems like **Green-washing**. Moreover, I am dedicated to advanced textual analysis application in Economics and Randomized Controlled Trial in AI reform. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> I am looking for a Summer Research Intern Position (from June to Sep)!**
-- **May 2023：**Congratulations! We have won the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published! Welcome to contribute.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the 2022 China National Scholarship.
-- **Jun 2022：**Online Research Intern at Cambridge Centre for the Integration of Science, Technology and Culture, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **<font color='red'>[News]</font> I am engaged in a RCT related to AI reform like ChatGPT, we are recruiting volunteers!**
+- **May 2023：**I have won the Honorable Mention Award in ICM 2023 with Huaiyuan Ye & Xuyang Liu.
+- **Apr 2023：**My working paper has been accepted to the 12nd PKU Economics Youth Forum, see you at School of Economics, Peking University on 27th May.
+- **Apr 2022：**Research Assistant with Meng Miao & Lingtian Bu on an economics study.
+- **Feb 2023：**Participating in an on-site internship related to medicine research in Beijing ESG Institute.
+- **Nov 2022：**Congratulations! I have won the First prize in Beijing Division of National Undergraduate Mathematical Modeling Competition with Huaiyuan Ye & Jiahao Wen.
+- **Oct 2022：**Happy to be nominated for the 2022 National Encouragement scholarship.
+
