@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://Russ0024github.io/3月23-01-曹育玮证件照.jpg" class="floatpic" width="360" height="480">
+<img src="https://Russ0024.github.io/3月23-01-曹育玮证件照.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yuwei Cao (Russell, 曹育玮)**.
 
