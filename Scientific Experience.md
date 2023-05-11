@@ -18,15 +18,15 @@ title: Scientific Experience
 
 - [徐莉萍,关月,琴辛宇.控股股东股权质押与并购业绩承诺——基于市值管理视角的经验证据[J].中国工业经济,2021(01):136-154.](https://fossil-poison-933.notion.site/88cfaec5681640ff954cb96b2f0df253) [Essay](https://Russ0024.github.io/mypaper/essay/控股股东股权质押与并购业绩承诺——基于市值管理视角的经验证据)
 
--[陆菁,鄢云,王韬璇.绿色信贷政策的微观效应研究——基于技术创新与资源再配置的视角[J].中国工业经济,2021(01):174-192.](https://fossil-poison-933.notion.site/98a9d0a95ab1443e96003171e875efeb) [Essay](https://Russ0024.github.io/mypaper/essay/绿色信贷政策的微观效应研究——基于技术创新与资源再配置的视角)
+- [陆菁,鄢云,王韬璇.绿色信贷政策的微观效应研究——基于技术创新与资源再配置的视角[J].中国工业经济,2021(01):174-192.](https://fossil-poison-933.notion.site/98a9d0a95ab1443e96003171e875efeb) [Essay](https://Russ0024.github.io/mypaper/essay/绿色信贷政策的微观效应研究——基于技术创新与资源再配置的视角)
 
 
 ## Essay Seminar
 
-- [Social Media and Mental Health](https://Russ0024.github.io/mypaper/slides/0507RA_cyw.pdf)<br>**Yuwei Cao**<br>,RA Seminar on 7th May 2023<br>**Staggered DID**.[Essay](https://Russ0024.github.io/mypaper/essay/Social Media and Mental Health.pdf)
+- [Social Media and Mental Health](https://Russ0024.github.io/mypaper/slides/0507RA_cyw.pdf)<br>**Yuwei Cao**<br>RA Seminar on 7th May 2023<br>**Staggered DID**.[Essay](https://Russ0024.github.io/mypaper/essay/Social Media and Mental Health.pdf)
 
-- [All That Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors](https://Russ0024.github.io/mypaper/slides/Barber&Odean_2008_final.pdf)<br>**Yuwei Cao**<br>, with Ying Zhang, Ruiqing Hu, Yisen Wang.<br>Ruichen Seminar on 27th Nov 2022.[Essay](https://Russ0024.github.io/mypaper/essay/AllThatGlitters.pdf)
+- [All That Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors](https://Russ0024.github.io/mypaper/slides/Barber&Odean_2008_final.pdf)<br>**Yuwei Cao**, with Ying Zhang, Ruiqing Hu, Yisen Wang<br>Ruichen Seminar on 27th Nov 2022.[Essay](https://Russ0024.github.io/mypaper/essay/AllThatGlitters.pdf)
 
 ## Program Presentation
 
-- [Yongtai Energy Bond Default Case Study](https://Russ0024.github.io/mypaper/slides/永泰能源案例研究展示ppt.pdf)<br>**Yuwei Cao**<br>, with Zhaoyang Ye, Yuxuan Ji, Shiyi Wei, Qihui Huang.<br>Credit Risk Measurement by Bo Huang, Final Presentation.
+- [Yongtai Energy Bond Default Case Study](https://Russ0024.github.io/mypaper/slides/永泰能源案例研究展示ppt.pdf)<br>**Yuwei Cao**, with Zhaoyang Ye, Yuxuan Ji, Shiyi Wei, Qihui Huang<br>Credit Risk Measurement by Bo Huang, Final Presentation.
