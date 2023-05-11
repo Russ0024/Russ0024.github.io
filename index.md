@@ -12,7 +12,7 @@ I am a junior majoring in **Credit Management** at School of Finance, Renmin Uni
 
 ## Research Interests
 
-My current research focuses on Empirical Corporate Finance and Governance of Chinese Government. My interests are on the **ESG** and its derivative problems like **Green-washing**. Moreover, I am dedicated to advanced textual analysis application in Economics and Randomized Controlled Trial in AI reform. I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on **Empirical Corporate Finance** and **Governance of Chinese Government**. My interests are on the **ESG** and its derivative problems like **Green-washing**. Moreover, I am dedicated to advanced **textual analysis application** in Economics and **Randomized Controlled Trial** in AI reform. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ## News and Updates
 
