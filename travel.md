@@ -28,8 +28,5 @@ title: Travel on Road
 
 <br>
 
-{% if site.intensedebate_comments %}
-    {% include intensedebate-comments.html %}
-{% endif %}
-
+{% include intensedebate-comments.html %}
 <br>
