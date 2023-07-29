@@ -70,7 +70,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: russellwei
+  shortname: russ0024
+
+google_analytics: G-99QMPLZTYS
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
