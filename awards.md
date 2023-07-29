@@ -4,39 +4,33 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
+## 奖学金与个人荣誉
 
-- March 2023：Second Prize Scholarship of FZU (about $1400)
-- Sep 2022: Best Student Academic Project ($120)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)
+- 2023年05月：中国人民大学财政金融学院优秀团干部
+- 2022年10月：中国人民大学三好学生
+- 2022年10月：中国人民大学国家励志奖学金
+- 2022年05月：中国人民大学优秀共青团员
+- 2021年10月：中国人民大学国家励志奖学金
 
-## Competitions
+## 科研竞赛
 
-- May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all **20508** paper)
-- Dec 2022：**First Prize** (Fujian Competition Area) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
-- May 2022：Third Prize (Short Videos Group) in China National College Student New Media Competition
+- 2023年2月至今：负责若干RA工作，目前正在推进RCT实验
+- 2023年05月：国际大学生数学建模竞赛Honorable Mention
+- 2022年11月：全国大学生数学建模竞赛北京赛区一等奖
+- 2022年03月：北京市级大创《央企总部搬迁对集团的影响》，已获良好结项
+- 2021年12月：全国大学生数学竞赛（非数学组）全国三等奖、北京市三等奖
+- 2021年06月：外研社“词达人杯”英语词汇能力竞赛全国三等奖、北京市特等奖
 
-## Honors
+## 社会工作
 
-- May 2023：Outstanding Student Leaders of Fuzhou University
-- Sep 2022：Nomination for China National Scholarship (Top 1%)
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of the year 2021-2022 at Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- May 2021：Merit Student of Fuzhou University
-- April 2021：Outstanding volunteer at 4th Digital China Summit
+- 2023年02月-2023年07月：北京市副中心ESG研究院医药研究组实习生
+- 2022年02月至今：中国人民大学财政金融学院2020级本科保险-信用管理班班长
+- 2021年05月-2022年06月：中国人民大学青年志愿者协会支教项目部学生骨干，分管华奥小学支教项目
 
-## Services
+## 志愿服务
 
-- Sep 2022 - Sep 2023：IEEE Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College, Fuzhou University
+- 2020年09月至今，志愿北京累计志愿时长107小时
+- 2021年05月-2022年06月：所负责的华奥小学支教项目累计志愿时长500余小时
+- 2020年12月：中国人民大学年度优秀志愿者
 
-Lastest Update: 7th May 2023 &nbsp; [中文版 (Chinese Version)](https://caihanlin.com/awards-zh/)
+更新时间：2023/07/29&nbsp;

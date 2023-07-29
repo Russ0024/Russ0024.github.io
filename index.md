@@ -16,9 +16,11 @@ My current research focuses on **Empirical Corporate Finance** and **Governance 
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> I am engaged in a RCT related to AI reform like ChatGPT, we are recruiting volunteers!**
+- **<font color='red'>[News]</font> I will continue my graduate study in Finance at SF RUC from 2024, hoping a new future!**
+- **<font color='red'>[News]</font> I am engaged in a RCT related to AI Economics Effects using Stable Diffusion, we are recruiting volunteers in Drawing and Designing field!**
+- **Jul 2023：**I have attended the International Conference for undergraduate in SF RUC.
 - **May 2023：**I have won the Honorable Mention Award in ICM 2023 with Huaiyuan Ye & Xuyang Liu.
-- **Apr 2023：**My working paper has been accepted to the 12nd PKU Economics Youth Forum, see you at School of Economics, Peking University on 27th May.
+- **May 2023：**My working paper has been accepted to the 12nd PKU Economics Youth Forum, School of Economics, Peking University on 27th May.
 - **Apr 2022：**Research Assistant with Meng Miao & Lingtian Bu on an economics study.
 - **Feb 2023：**Participating in an on-site internship related to medicine research in Beijing ESG Institute.
 - **Nov 2022：**Congratulations! I have won the First prize in Beijing Division of National Undergraduate Mathematical Modeling Competition with Huaiyuan Ye & Jiahao Weng.
