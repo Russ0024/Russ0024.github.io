@@ -28,6 +28,8 @@ title: Travel on Road
 
 <br>
 
-{% include disqus.html %} 
+{% if site.intensedebate_comments %}
+    {% include intensedebate-comments.html %}
+{% endif %}
 
 <br>

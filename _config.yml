@@ -69,8 +69,10 @@ kramdown:
 
 
 # disqus settings:
-disqus:
-  shortname: russ0024
+# disqus:
+#   shortname: russ0024
+
+intensedebate_comments: true
 
 google_analytics: G-99QMPLZTYS
 
