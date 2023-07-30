@@ -23,10 +23,3 @@ title: Travel on Road
 
 
 <br>
-
-## Leave a Message
-
-<br>
-
-{% include intensedebate-comments.html %}
-<br>
