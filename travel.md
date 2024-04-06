@@ -6,6 +6,10 @@ title: Travel on Road
 
 ## My Travels
 
+### 2024
+
+- [河南之旅](https://Russ0024.github.io/blogs/henan)
+
 ### 2023
 
 - [XMU WISE2023夏令营回忆](https://Russ0024.github.io/blogs/xmu)
