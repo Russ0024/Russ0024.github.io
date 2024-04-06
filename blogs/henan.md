@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/xmu/index.html
-title: XMU WISE2023夏令营回忆
+permalink: /blogs/henan/index.html
+title: 河南之旅
 ---
 
 ## 中原文化，万种风情
